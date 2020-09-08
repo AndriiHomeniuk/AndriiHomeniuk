@@ -14,6 +14,6 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/andriihomeniuk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andriihomeniuk/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/andrii-homeniuk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrii-homeniuk/" height="20" width="20" /></a>
   <a href="https://www.facebook.com/AndriiHomeniuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/AndriiHomeniuk" height="20" width="20" /></a>
 </p>
